@@ -1,0 +1,22 @@
+## Interface: 100005 
+## Author: Hühnchen
+## Title: Chess
+## Version: 1.0.0
+## SavedVariables: Chess_Scores, Chess_Games, Chess_SuspendedGames
+
+init.lua
+recycle.lua
+state.lua
+check.lua
+pawn.lua
+rook.lua
+knight.lua
+bishop.lua
+queen.lua
+king.lua
+ai.lua
+name.lua
+frame.lua
+findopponent.lua
+saved_frame.lua
+chess.lua
